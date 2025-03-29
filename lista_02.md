@@ -192,7 +192,8 @@ Dispositivo 3 ligado. Energia restante: 400
 
 Dispositivo 4 não pode ser ligado. Energia insuficiente.
 
-``D)``
+```javascript
+D)
 Dispositivo 1 ligado. Energia restante: 900
 
 Dispositivo 2 ligado. Energia restante: 300
@@ -202,6 +203,7 @@ Dispositivo 3 ligado com bateria extra. Energia restante: 200
 Dispositivo 4 não pode ser ligado. Energia insuficiente.
 
 Dispositivo 5 não pode ser ligado. Energia insuficiente.
+```
 
 ______
 
